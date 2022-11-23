@@ -4,6 +4,7 @@ import Footer from "./components/Footer"
 import Home from "./pages/Home"
 import About from "./pages/About"
 import Store from "./pages/Store"
+import { ShoppingCartProvider } from "./context/ShoppingCartContext"
 
 function App() {
   
